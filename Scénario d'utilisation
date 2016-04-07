@@ -1,0 +1,118 @@
+scénario d’utilisation
+
+Un verre intelligent qui permet de commander et payer de manière simple avec une interface holographie et tactile. Ce verre comprend plusieurs fonctionnalités : 
+Le paiement est direct
+Vérification du taux d’alcool pour SAM ou 
+Changement de couleur en fonction de ce que tu bois 
+Clignote lorsque le verre est vide 
+Un réveil s’il faut partir avant une heure précise
+Choix de la musique 
+Projection du Menu
+Affichage d’une fenêtre qui montre le prix, le réveil et le nom
+Optionnel ( paroles des chansons )
+Refroidissement verre si nécessaire 
+Affichage couleurs ( intensité forte ) lorsque le cocktail est pret 
+Menu boisson ( comprend cocktail + bières + virgin + coktail personnalisé )
+Menu divers ( musique, paroles)
+Mettre une notice d’utilisation
+Mettre un interrupteur tactile
+Une table a induction ( partout   qui permettrais de charger en permanence la batterie 
+
+Quand on trinque, un effet visuel ( couleurs)
+
+
+
+Nous sommes vendredi soir, une groupe de 5 amis décident de se réunir car cela fait longtemps qu’ils ne sont pas rencontrés depuis le lycée. Le rendez-vous est à 20h30. Il étudient maintenant à divers endroits en France. Le bar est situé en face de leur ancien lycée, à 45min de Paris en transport. Ce bar à un bon rapport qualité/prix. Même s’ils connaissent des bars mieux décorés et plus calmes, ce lieu est empreint de souvenir et a été récemment nommé le bar le plus HIGH-TECH, ils voulaient donc allez tester ce BAR.
+
+
+Il est 20h30. Amélie, Ben et Charlotte arrivent en premier. Et découvrent les lieux. A l’entrée du restaurant, une petite affiche notée : “ Bonjour, Insérez votre carte bleu et récupérez votre verre et profitez pleinement de votre soirée !  “ Ils comprennent qu’il doivent insérer leurs cartes bleu ( ou tout autre moyen de paiement) et récupèrent leurs verres afin d’aller trouver une place pour tout le groupe en attendant David et Emilie. Ces derniers les rejoindront plus tard car ils étudient à Paris. 
+
+Ben, lui, ne boit pas mais il sait qu’il pourra sûrement choisir une boisson sans alcool. Ils décident d’utiliser le verre, Ben appuie sur le bouton Start pendant 3 à 5 secondes et l’hologramme s’affiche, avec plusieurs MENU. Il choisit alors MENU boissons, en dessous des boissons alcoolisée en appuyant sur le logo verre à Martini, un large panel de choix de boisson non alcoolisé se présente à lui et trouve ainsi son bonheur en cliquant sur Virgin Mojito.  Amélie de nature aventurière aime essayer des nouvelles découvertes culinaires, elle est donc naturellement tentée par la rubrique “ COCKTAIL PERSONNALISE “ , elle a alors plusieurs choix pour ainsi composer son propre cocktail avec les ingrédients, fruits qu’elle désire. Quant à Charlotte, le cocktail “ Green Mixture “ l’a interpellé mais elle aimerait savoir la composition de ce dernier. Elle clique donc sur le cocktail et une fiche s’affiche, précisant ainsi la recette, les ingrédients ajoutés. La commande étant instantanée, des couleurs s’affichent en bas des verres pour signaler que leurs cocktails sont en train d'être préparés. Celui de Ben passe directement au bleu vif au bout de 5 min ce qui signifie qu’il doit aller chercher son verre car il est prêt. Les verres d’Amélie et de Charlotte virent également au bleu et elles vont alors récupérer leur verre au bar. C’est alors qu’elles croisent David et Emilie qui venaient justement d’arriver au bar avec leur verre à la main. Ils vont rejoindre la table tous les quatres. David et Emilie ont très faim, ils décident donc de prendre des apéritifs en plus de leurs cocktails. Ils allument leur verre et cliquent sur le MENU, CHARCUTERIE représenté par une assiette avec du fromage et choisissent leurs entrées , ainsi que leurs cocktail, PinaColada pour David et l’Exotique pour Emilie. 
+Pendant qu’ils discutent tous ensemble, Ben trouve que la musique n’est pas très dynamique, il découvre alors qu’il a le choix de la musique grâce au verre intelligent, il choisit la musique tendance du moment. C’est la musique préférée d’Emilie, ils ont remarqué qu’il y avait une rubrique “ KARAOKE “ , ils improvisent alors un mini KARAOKE ensemble. Pendant ce karaoke, le verre de David se met alors à clignoter car il est vide. Cependant, avant de commander une nouvelle boisson, il veut savoir à combien son addition s'éleve à ce moment, étant donné qu’il avait déjà commandé des snacks en plus du cocktail. Il glisse sa main vers le haut du verre, ( près du START et apparaît une petite fenêtre qui affiche la liste de sa commande avec le prix total en dessous, accompagné d’un petit Réveil et du nom du Bar ). Comme les prix étaient raisonnables, il commande une deuxième boisson. Voil0 maintenant 1h30 qu’ils sont dans le Bar. Charlotte et Ben trouvent que leur boisson n’est plus très fraîche, et appuient sur le menu DIVERS représenté par un “+” et une fonctionnalité permet de refroidir sa boisson quasi instantanément. 
+
+Ils discutent, chantent et rient jusque 23h et demandent l’addition. Ils appréhendaient ce moment, car ils ont souvent eu des problèmes lors de l’addition notamment avec la carte électron de Charlotte. Cette fois, le paiement est fait automatiquement, car ils ont inséré leurs cartes de paiement à l’entrée du restaurant, ce qui leur avait facilité le travail. 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Un verre intelligent qui permet de commander et payer de manière simple avec une interface holographie et tactile. Ce verre comprend plusieurs fonctionnalités : 
+Système de paiement en direct
+A l’entrée dans le bar, en passant notre carte bleue dans une machine, on reçoit le verre.
+L’interrupteur tactile
+Le verre est équipé d’un bouton tactile. Pour allumer le verre il faut rester appuyer sur le verre pendant quelques secondes. 
+
+Changement de couleur en fonction de ce que tu bois 
+Le verre à chaque fois qu’il est servi commencerait à “déteindre” vers une couleur plus sombre ou vers du rouge pour indiquer qu’on consomme énormément.
+Clignotement 
+Le verre lorsqu’il est vide se mettrait à clignoter lentement pour indiquer au serveur qu’il est vide.
+
+Projection du Menu
+Le verre permet de diffuser un hologramme plan composé des menus qui permettra de faire ses choix au niveau de la boisson.
+Menu boisson ( représenté par un verre à cocktail )
+Le menu boisson engloberait les cocktails, bières, soft drink, et cocktail personnalisé et permettrait de commander l’un d’eux à n’importe quel moment.
+    Une fonction permettrait de choisir un mode (aventurier, soft….), qui proposerait de manière prédéfinie un panel de boisson.
+    
+Menu divers (représenté par un +)
+Choix de la musique 
+Le verre permettrait de choisir dans le menu divers la musique attribuée. Dans le cas où le bar peut mettre une musique différente en fonction des tables.
+Le menu divers permettrait de faire des actions diverses.
+    Dans le choix des musiques, il y aurait l’option karaoké qui permettrait d’afficher les paroles de la musique choisie.
+Le réveil
+Si le groupe de client a besoin de partir avant une heure précise (dernier train…), le verre se mettra à clignoter dans une couleur précise ou fera du son. Cette option sera intégrée dans le menu divers.
+Refroidissement verre si nécessaire
+Une option permettrait de choisir le refroidissement du verre permettant de rafraîchir une boisson.
+Vérification du taux d’alcool pour SAM 
+Une option intégrée dans les menus défilants dans le verre permet  de se désigner comme le sam du groupe et le verre comptera le nombre de verres consommés et indiquera en conséquence si le SAM  doit s’arrêter.
+Vérification du taux d’alcool pour conducteur
+Une option dans le même type que l’option SAM , permettant d’enfermer ses clès dans le verre, si le conducteur possède une alcoolémie supérieur à celle réglementée, le verre ne rend pas les clés.
+Ajout d’extra
+Une fonction permettra d’ajouter du sucre ou autre extra pour pouvoir boire la boisson plus en douceur.
+Bouton de sortie
+Pour revenir à l’accueil du menu, il faut appuyer sur la croix  “x”.
+Affichage d’une fenêtre qui montre le prix, le réveil et le nom
+Au cours de la projection, il y a une petite fenêtre contextuelle qui affichera le prix, le réveil ( heure de départ) et le nom de l’utilisateur. 
+Cocktail prêt 
+Après une commande, si le cocktail est prêt, la couleur du verre s’intensifierait.
+Mettre une notice d’utilisation
+Une notice d’utilisation simple d'utilisation sera disponible sur chacune des tables.
+Une table à induction 
+Il y a une table à induction à disposition qui permettrait de charger le verre au cours de son utilisation.
+Effet visuel ( couleurs)
+Si 2 personnes trinquent, les verres feraient un effet visuel pour accentuer l’effet festif. 
+
+
+
+
+
+
+
